@@ -35,7 +35,7 @@
 
 <style lang="scss">
   .create-todo {
-    margin-top: 50px;
+    margin-top: 20px;
     display: flex;
     .btn {
       width: 130px;
